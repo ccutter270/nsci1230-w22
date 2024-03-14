@@ -1,0 +1,13 @@
+name: classDemo
+title: classDemo
+username:
+account: ccutter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5524555
+bundleId: 5514718
+url: https://ccutter.shinyapps.io/classDemo/
+when: 1643296366.55047
+lastSyncTime: 1643296366.55048
+asMultiple: FALSE
+asStatic: FALSE

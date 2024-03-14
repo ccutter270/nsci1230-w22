@@ -1,0 +1,13 @@
+name: coolerApp
+title: coolerApp
+username:
+account: ccutter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5524602
+bundleId: 5514750
+url: https://ccutter.shinyapps.io/coolerApp/
+when: 1643296578.26563
+lastSyncTime: 1643296578.26565
+asMultiple: FALSE
+asStatic: FALSE

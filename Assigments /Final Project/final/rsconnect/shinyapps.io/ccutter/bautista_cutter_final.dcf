@@ -1,0 +1,13 @@
+name: bautista_cutter_final
+title: bautista_cutter_final
+username:
+account: ccutter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5553337
+bundleId: 5539057
+url: https://ccutter.shinyapps.io/bautista_cutter_final/
+when: 1643899911.13747
+lastSyncTime: 1643899911.13748
+asMultiple: FALSE
+asStatic: FALSE
